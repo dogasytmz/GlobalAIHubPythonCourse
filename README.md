@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# GAIH Student Repo Example
+# GAIH Student Repo
 ![](img/newlogo.png)
 
 **Course Date:** 05.04.2021  
