@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # GAIH Student Repo
-![](img/newlogo.png)
+![newlogo](https://user-images.githubusercontent.com/81999417/113746390-f3c45a00-970e-11eb-88ff-8eba3fdaef80.png)
 
 **Course Date:** 05.04.2021  
 **Name:** Doğa  
